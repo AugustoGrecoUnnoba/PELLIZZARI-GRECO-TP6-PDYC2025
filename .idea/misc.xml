@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/artist-service/artist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/artist-service/pom.xml" />
+        <option value="$PROJECT_DIR$/song-service/pom.xml" />
+        <option value="$PROJECT_DIR$/playlist-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherPath" value="$USER_HOME$/backend_odt/sbt-dist/bin/sbt-launch.jar" />
+    <option name="vmParameters" value="" />
+  </component>
+</project>
